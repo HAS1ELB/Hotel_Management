@@ -1,8 +1,11 @@
 Hotel Management System
+
 Introduction
+
 The Hotel Management System is a Java application designed to assist hotel staff in managing reservations, rooms, and clients. It provides functionalities for adding reservations, managing room availability, processing payments, and more.
 
 Features
+
 Reservation Management: Allows staff to add new reservations, specify reservation dates, and select available rooms based on client preferences.
 
 Room Management: Enables staff to manage room availability, search for available rooms based on various criteria such as room type, number of beds, and amenities.
@@ -12,6 +15,7 @@ Client Management: Provides functionality to add new clients and store their inf
 Payment Processing: Supports different payment methods such as credit card and cash payments.
 
 Installation
+
 Clone the repository to your local machine:
 
 bash
